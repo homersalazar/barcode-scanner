@@ -1,4 +1,3 @@
-    https://barcodess.netlify.app/ 
     # Barcode Project
     
     This is a brief description of your project.
@@ -35,6 +34,9 @@
        ```bash
        npm install
        ```
+
+       https://barcodess.netlify.app/ 
+
     
     3. Start the project:
     
